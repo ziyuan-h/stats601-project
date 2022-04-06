@@ -1,3 +1,5 @@
 
 .ipynb_checkpoints/TimeSeriesAnalysis-checkpoint.ipynb
 .ipynb_checkpoints/stats_601_project-checkpoint.ipynb
+.venv/*
+__pycache__/main.cpython-310.pyc
