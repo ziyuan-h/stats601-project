@@ -42,6 +42,9 @@ def overall_corr(return_hat:pd.DataFrame, return_true:pd.DataFrame) -> float:
     return_true_all = return_true.values.ravel()
     return np.corrcoef(return_hat_all, return_true_all)
 
+def overall_corr(return_hat:np.array, return_true:np.array) -> float:
+    return np.corrcoef(return_hat.ravel(), return_true.ravel())[0, 1]
+
 def corr_score(get_r_hat, log_pr:pd.DataFrame, volu:pd.DataFrame) -> tuple:
     """
     Calculate the correlation between the estimate value and true
