@@ -1,6 +1,6 @@
 
-.ipynb_checkpoints/TimeSeriesAnalysis-checkpoint.ipynb
-.ipynb_checkpoints/stats_601_project-checkpoint.ipynb
+.ipynb_checkpoints/*
 .venv/*
-__pycache__/main.cpython-310.pyc
+__pycache__/*
 model/*
+features.pkl
