@@ -84,3 +84,4 @@ class Critic:
             print("Fail to outperform Ziwei's method, whose pairwise average\n" +
                     "and overall correlations are (%.5f, %.5f)" % (0.0284, 0.01536))
         print("===============================")
+        return t_used, pairwise, overall

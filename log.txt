@@ -1,0 +1,1491 @@
+mi selected faetures with num_features = [15, 15, 15, 20, 20, 20, 20, 20, 15, 20]
+Total time used: 9.527s
+Pairwise correlation:
+	asset 0 = 0.01868
+	asset 1 = 0.03731
+	asset 2 = 0.03542
+	asset 3 = 0.02212
+	asset 4 = 0.06040
+	asset 5 = 0.01430
+	asset 6 = 0.06812
+	asset 7 = 0.01550
+	asset 8 = 0.09509
+	asset 9 = -0.00072
+	mean correlation = 0.03662
+Overall correlation: 0.02178
+
+mi selected features num_features = [25, 27, 33, 24, 27, 18, 14, 19, 21, 59]
+Total time used: 9.499s
+Pairwise correlation:
+	asset 0 = 0.01487, down
+	asset 1 = 0.03599, down
+	asset 2 = 0.03422, down
+	asset 3 = 0.01302, down
+	asset 4 = 0.07454, up
+	asset 5 = 0.00959, up
+	asset 6 = 0.05947, up
+	asset 7 = 0.01682, up
+	asset 8 = 0.09313, down
+	asset 9 = 0.01954, up
+	mean correlation = 0.03712
+Overall correlation: 0.02354
+===============================
+Performance beats Ziwei's dummy method!
+===============================
+
+num_features = [20, 22, 37, 21, 30, 20, 19, 24, 26, 64]
+Total time used: 9.253s
+Pairwise correlation:
+	asset 0 = 0.01902
+	asset 1 = 0.03831
+	asset 2 = 0.03382
+	asset 3 = 0.02081
+	asset 4 = 0.07428
+	asset 5 = 0.01430
+	asset 6 = 0.06835
+	asset 7 = 0.01400
+	asset 8 = 0.09649
+	asset 9 = 0.02190
+	mean correlation = 0.04013
+Overall correlation: 0.02583
+===============================
+Performance beats Ziwei's dummy method!
+===============================
+
+iteration number 0
+Total time used: 8.999s
+Pairwise correlation:
+	asset 0 = 0.02622
+	asset 1 = 0.01986
+	asset 2 = 0.03085
+	asset 3 = 0.02061
+	asset 4 = 0.05443
+	asset 5 = 0.02937
+	asset 6 = 0.07780
+	asset 7 = 0.02302
+	asset 8 = 0.08955
+	asset 9 = -0.00226
+	mean correlation = 0.03694
+Overall correlation: 0.02117
+===============================
+Performance beats Ziwei's dummy method!
+===============================
+score= 0.021172520876819857
+num_features= [55 43 25 52 52 10 17 57 16 46]
+best score ever!
+features [55 43 25 52 52 10 17 57 16 46]
+iteration number 1
+Total time used: 9.136s
+Pairwise correlation:
+	asset 0 = 0.01441
+	asset 1 = 0.03809
+	asset 2 = 0.03565
+	asset 3 = 0.01720
+	asset 4 = 0.06918
+	asset 5 = 0.00207
+	asset 6 = 0.05097
+	asset 7 = 0.01458
+	asset 8 = 0.11417
+	asset 9 = 0.01399
+	mean correlation = 0.03703
+Overall correlation: 0.02403
+===============================
+Performance beats Ziwei's dummy method!
+===============================
+score= 0.024025852393906866
+num_features= [ 23  26  46  36  37  52  41  21  57 404]
+best score ever!
+features [ 23  26  46  36  37  52  41  21  57 404]
+iteration number 2
+Total time used: 9.761s
+Pairwise correlation:
+	asset 0 = 0.00766
+	asset 1 = 0.02128
+	asset 2 = 0.04128
+	asset 3 = 0.02762
+	asset 4 = 0.05337
+	asset 5 = 0.01430
+	asset 6 = 0.03638
+	asset 7 = 0.01168
+	asset 8 = 0.10915
+	asset 9 = 0.00572
+	mean correlation = 0.03284
+Overall correlation: 0.01904
+===============================
+Performance beats Ziwei's dummy method!
+===============================
+score= 0.01903591962479841
+num_features= [ 10  44  55  13  54  20  50  14  60 372]
+iteration number 3
+Total time used: 8.733s
+Pairwise correlation:
+	asset 0 = 0.02539
+	asset 1 = 0.02167
+	asset 2 = 0.03443
+	asset 3 = 0.01762
+	asset 4 = 0.05506
+	asset 5 = -0.00115
+	asset 6 = 0.06026
+	asset 7 = 0.02537
+	asset 8 = 0.09617
+	asset 9 = 0.00592
+	mean correlation = 0.03407
+Overall correlation: 0.02097
+===============================
+Performance beats Ziwei's dummy method!
+===============================
+score= 0.020973972703425627
+num_features= [ 52  37  35  34  85  34  36  54  28 398]
+iteration number 4
+Total time used: 9.148s
+Pairwise correlation:
+	asset 0 = 0.01560
+	asset 1 = 0.04130
+	asset 2 = 0.04357
+	asset 3 = 0.02061
+	asset 4 = 0.07932
+	asset 5 = 0.01401
+	asset 6 = 0.04599
+	asset 7 = 0.01657
+	asset 8 = 0.11417
+	asset 9 = 0.02164
+	mean correlation = 0.04128
+Overall correlation: 0.02619
+===============================
+Performance beats Ziwei's dummy method!
+===============================
+score= 0.026193101436032748
+num_features= [ 27  16  48  52  13  22  26  36  57 215]
+best score ever!
+features [ 27  16  48  52  13  22  26  36  57 215]
+iteration number 5
+Total time used: 9.589s
+Pairwise correlation:
+	asset 0 = 0.01861
+	asset 1 = 0.03962
+	asset 2 = 0.03695
+	asset 3 = 0.01706
+	asset 4 = 0.05725
+	asset 5 = 0.00197
+	asset 6 = 0.03595
+	asset 7 = 0.02238
+	asset 8 = 0.11286
+	asset 9 = 0.04027
+	mean correlation = 0.03829
+Overall correlation: 0.02526
+===============================
+Performance beats Ziwei's dummy method!
+===============================
+score= 0.025264508086420487
+num_features= [ 18  32  47  29  63  28  45  48  50 165]
+iteration number 6
+Total time used: 9.593s
+Pairwise correlation:
+	asset 0 = 0.01560
+	asset 1 = 0.02107
+	asset 2 = 0.03505
+	asset 3 = 0.02009
+	asset 4 = 0.08455
+	asset 5 = 0.00252
+	asset 6 = 0.06178
+	asset 7 = 0.01644
+	asset 8 = 0.10641
+	asset 9 = 0.00351
+	mean correlation = 0.03670
+Overall correlation: 0.02238
+===============================
+Performance beats Ziwei's dummy method!
+===============================
+score= 0.02238221283761208
+num_features= [ 28  40  39  59  16  45  23  40  36 537]
+iteration number 7
+Total time used: 9.218s
+Pairwise correlation:
+	asset 0 = 0.02589
+	asset 1 = 0.02602
+	asset 2 = 0.04431
+	asset 3 = 0.02055
+	asset 4 = 0.06810
+	asset 5 = 0.00527
+	asset 6 = 0.04623
+	asset 7 = 0.01550
+	asset 8 = 0.11517
+	asset 9 = 0.00922
+	mean correlation = 0.03763
+Overall correlation: 0.02417
+===============================
+Performance beats Ziwei's dummy method!
+===============================
+score= 0.024170959781452832
+num_features= [ 56  61  61  50  25  37  32  20  43 433]
+iteration number 8
+Total time used: 9.372s
+Pairwise correlation:
+	asset 0 = 0.02319
+	asset 1 = 0.02254
+	asset 2 = 0.04431
+	asset 3 = 0.02153
+	asset 4 = 0.07932
+	asset 5 = 0.02462
+	asset 6 = 0.04240
+	asset 7 = 0.01794
+	asset 8 = 0.10630
+	asset 9 = 0.00064
+	mean correlation = 0.03828
+Overall correlation: 0.02299
+===============================
+Performance beats Ziwei's dummy method!
+===============================
+score= 0.022991529000713995
+num_features= [ 35  52  61  19  13  11  30  44  61 286]
+iteration number 9
+Total time used: 9.433s
+Pairwise correlation:
+	asset 0 = 0.01539
+	asset 1 = 0.02416
+	asset 2 = 0.03736
+	asset 3 = 0.02019
+	asset 4 = 0.06881
+	asset 5 = 0.00808
+	asset 6 = 0.06754
+	asset 7 = 0.01902
+	asset 8 = 0.09798
+	asset 9 = 0.00515
+	mean correlation = 0.03637
+Overall correlation: 0.02044
+===============================
+Performance beats Ziwei's dummy method!
+===============================
+score= 0.0204438873245486
+num_features= [ 14  54  17  54  24  26  21  34  24 241]
+iteration number 10
+Total time used: 9.578s
+Pairwise correlation:
+	asset 0 = 0.02614
+	asset 1 = 0.02245
+	asset 2 = 0.04128
+	asset 3 = 0.02767
+	asset 4 = 0.08172
+	asset 5 = 0.00116
+	asset 6 = 0.03760
+	asset 7 = 0.02026
+	asset 8 = 0.10539
+	asset 9 = -0.00360
+	mean correlation = 0.03601
+Overall correlation: 0.02248
+===============================
+Performance beats Ziwei's dummy method!
+===============================
+score= 0.02248420213141891
+num_features= [ 60  39  55  16  18  51  52  33  22 290]
+iteration number 11
+Total time used: 9.388s
+Pairwise correlation:
+	asset 0 = 0.01914
+	asset 1 = 0.02499
+	asset 2 = 0.03877
+	asset 3 = 0.02082
+	asset 4 = 0.07014
+	asset 5 = 0.00318
+	asset 6 = 0.03596
+	asset 7 = 0.01273
+	asset 8 = 0.10612
+	asset 9 = -0.00543
+	mean correlation = 0.03264
+Overall correlation: 0.01911
+===============================
+Performance beats Ziwei's dummy method!
+===============================
+score= 0.019107633347067055
+num_features= [ 21  58  12  61  26  17  48  28  34 569]
+iteration number 12
+Total time used: 9.346s
+Pairwise correlation:
+	asset 0 = 0.02313
+	asset 1 = 0.02107
+	asset 2 = 0.03443
+	asset 3 = 0.02762
+	asset 4 = 0.05777
+	asset 5 = 0.00800
+	asset 6 = 0.06037
+	asset 7 = 0.02253
+	asset 8 = 0.10639
+	asset 9 = -0.00709
+	mean correlation = 0.03542
+Overall correlation: 0.02161
+===============================
+Performance beats Ziwei's dummy method!
+===============================
+score= 0.021607295382165746
+num_features= [ 46  40  35  13  67  25  34  50  37 349]
+iteration number 13
+Total time used: 9.434s
+Pairwise correlation:
+	asset 0 = 0.01861
+	asset 1 = 0.03831
+	asset 2 = 0.04221
+	asset 3 = 0.02720
+	asset 4 = 0.07976
+	asset 5 = 0.00197
+	asset 6 = 0.03603
+	asset 7 = 0.01378
+	asset 8 = 0.09237
+	asset 9 = 0.00644
+	mean correlation = 0.03567
+Overall correlation: 0.02120
+===============================
+Performance beats Ziwei's dummy method!
+===============================
+score= 0.021204359693695548
+num_features= [ 18  22  19  10  10  28  62  22  12 264]
+iteration number 14
+Total time used: 9.216s
+Pairwise correlation:
+	asset 0 = 0.02564
+	asset 1 = 0.03599
+	asset 2 = 0.03335
+	asset 3 = 0.01982
+	asset 4 = 0.05811
+	asset 5 = 0.00247
+	asset 6 = 0.04599
+	asset 7 = 0.01506
+	asset 8 = 0.07760
+	asset 9 = 0.01958
+	mean correlation = 0.03336
+Overall correlation: 0.02219
+===============================
+Performance beats Ziwei's dummy method!
+===============================
+score= 0.022188853574323153
+num_features= [ 63  27  43  56  68  40  26  29  18 219]
+iteration number 15
+Total time used: 8.980s
+Pairwise correlation:
+	asset 0 = 0.01861
+	asset 1 = 0.01986
+	asset 2 = 0.03716
+	asset 3 = 0.01365
+	asset 4 = 0.05772
+	asset 5 = 0.00265
+	asset 6 = 0.03705
+	asset 7 = 0.01313
+	asset 8 = 0.10759
+	asset 9 = 0.03215
+	mean correlation = 0.03396
+Overall correlation: 0.02078
+===============================
+Performance beats Ziwei's dummy method!
+===============================
+score= 0.020776183316343774
+num_features= [ 18  43  24  39  65  43  59  27  59 117]
+iteration number 16
+Total time used: 9.258s
+Pairwise correlation:
+	asset 0 = 0.00346
+	asset 1 = 0.02517
+	asset 2 = 0.03515
+	asset 3 = 0.02762
+	asset 4 = 0.05435
+	asset 5 = 0.00808
+	asset 6 = 0.06026
+	asset 7 = 0.02380
+	asset 8 = 0.09509
+	asset 9 = 0.03926
+	mean correlation = 0.03722
+Overall correlation: 0.02074
+===============================
+Performance beats Ziwei's dummy method!
+===============================
+score= 0.02074204444071994
+num_features= [ 12  53  29  13  51  26  36  59  15 205]
+iteration number 17
+Total time used: 9.440s
+Pairwise correlation:
+	asset 0 = 0.02383
+	asset 1 = 0.02118
+	asset 2 = 0.04166
+	asset 3 = 0.01706
+	asset 4 = 0.05631
+	asset 5 = -0.00072
+	asset 6 = 0.03553
+	asset 7 = 0.01400
+	asset 8 = 0.11552
+	asset 9 = 0.01217
+	mean correlation = 0.03365
+Overall correlation: 0.02120
+===============================
+Performance beats Ziwei's dummy method!
+===============================
+score= 0.021197460698864003
+num_features= [ 38  41  52  29  75  31  47  24  48 225]
+iteration number 18
+Total time used: 9.048s
+Pairwise correlation:
+	asset 0 = 0.01441
+	asset 1 = 0.04829
+	asset 2 = 0.04215
+	asset 3 = 0.02767
+	asset 4 = 0.06040
+	asset 5 = 0.00800
+	asset 6 = 0.05844
+	asset 7 = 0.01083
+	asset 8 = 0.11458
+	asset 9 = 0.01957
+	mean correlation = 0.04043
+Overall correlation: 0.02620
+===============================
+Performance beats Ziwei's dummy method!
+===============================
+score= 0.026195037405034254
+num_features= [23 18 49 16 20 25 13 10 52 60]
+best score ever!
+features [23 18 49 16 20 25 13 10 52 60]
+iteration number 19
+Total time used: 9.524s
+Pairwise correlation:
+	asset 0 = 0.02311
+	asset 1 = 0.02796
+	asset 2 = 0.03719
+	asset 3 = 0.01541
+	asset 4 = 0.05656
+	asset 5 = 0.00822
+	asset 6 = 0.06032
+	asset 7 = 0.02500
+	asset 8 = 0.10884
+	asset 9 = 0.00161
+	mean correlation = 0.03642
+Overall correlation: 0.02234
+===============================
+Performance beats Ziwei's dummy method!
+===============================
+score= 0.022335578584291152
+num_features= [ 40  23  23  45  76  19  35  61  58 325]
+iteration number 20
+Total time used: 9.756s
+Pairwise correlation:
+	asset 0 = 0.01456
+	asset 1 = 0.02235
+	asset 2 = 0.03950
+	asset 3 = 0.01364
+	asset 4 = 0.06615
+	asset 5 = 0.00524
+	asset 6 = 0.04555
+	asset 7 = 0.01752
+	asset 8 = 0.09304
+	asset 9 = -0.00295
+	mean correlation = 0.03146
+Overall correlation: 0.01717
+===============================
+Performance beats Ziwei's dummy method!
+===============================
+score= 0.01716950167691957
+num_features= [ 24  51  16  38  40  38  25  32  20 593]
+iteration number 21
+Total time used: 9.662s
+Pairwise correlation:
+	asset 0 = 0.01861
+	asset 1 = 0.03230
+	asset 2 = 0.04152
+	asset 3 = 0.02767
+	asset 4 = 0.07424
+	asset 5 = 0.01430
+	asset 6 = 0.04555
+	asset 7 = 0.02253
+	asset 8 = 0.11552
+	asset 9 = 0.00694
+	mean correlation = 0.03992
+Overall correlation: 0.02494
+===============================
+Performance beats Ziwei's dummy method!
+===============================
+score= 0.024942441771032428
+num_features= [ 18  13  21  16  32  20  25  50  48 522]
+iteration number 22
+Total time used: 9.555s
+Pairwise correlation:
+	asset 0 = 0.02330
+	asset 1 = 0.04255
+	asset 2 = 0.03359
+	asset 3 = 0.02023
+	asset 4 = 0.05375
+	asset 5 = 0.00822
+	asset 6 = 0.06835
+	asset 7 = 0.01682
+	asset 8 = 0.10697
+	asset 9 = 0.02569
+	mean correlation = 0.03995
+Overall correlation: 0.02621
+===============================
+Performance beats Ziwei's dummy method!
+===============================
+score= 0.026211247446728654
+num_features= [33 34 28 57 50 19 19 19 63 68]
+best score ever!
+features [33 34 28 57 50 19 19 19 63 68]
+iteration number 23
+Total time used: 9.939s
+Pairwise correlation:
+	asset 0 = 0.02311
+	asset 1 = 0.04255
+	asset 2 = 0.04183
+	asset 3 = 0.02055
+	asset 4 = 0.05772
+	asset 5 = 0.00231
+	asset 6 = 0.03760
+	asset 7 = 0.02380
+	asset 8 = 0.09387
+	asset 9 = 0.01957
+	mean correlation = 0.03629
+Overall correlation: 0.02417
+===============================
+Performance beats Ziwei's dummy method!
+===============================
+score= 0.02417134512718569
+num_features= [40 34 54 50 65 41 52 59 19 60]
+iteration number 24
+Total time used: 9.549s
+Pairwise correlation:
+	asset 0 = 0.02622
+	asset 1 = 0.02192
+	asset 2 = 0.03515
+	asset 3 = 0.02212
+	asset 4 = 0.05585
+	asset 5 = -0.00041
+	asset 6 = 0.05844
+	asset 7 = 0.02537
+	asset 8 = 0.11455
+	asset 9 = 0.03633
+	mean correlation = 0.03955
+Overall correlation: 0.02482
+===============================
+Performance beats Ziwei's dummy method!
+===============================
+score= 0.024816293558641022
+num_features= [ 55  38  29  20  60  30  13  54  51 179]
+iteration number 25
+Total time used: 9.571s
+Pairwise correlation:
+	asset 0 = 0.02312
+	asset 1 = 0.02128
+	asset 2 = 0.04292
+	asset 3 = 0.02211
+	asset 4 = 0.05510
+	asset 5 = -0.00226
+	asset 6 = 0.03647
+	asset 7 = 0.02270
+	asset 8 = 0.10860
+	asset 9 = 0.01028
+	mean correlation = 0.03403
+Overall correlation: 0.02132
+===============================
+Performance beats Ziwei's dummy method!
+===============================
+score= 0.02132234667440609
+num_features= [ 34  44  57  30  87  35  57  63  42 440]
+iteration number 26
+Total time used: 9.411s
+Pairwise correlation:
+	asset 0 = 0.01507
+	asset 1 = 0.03533
+	asset 2 = 0.03950
+	asset 3 = 0.02097
+	asset 4 = 0.07454
+	asset 5 = 0.00261
+	asset 6 = 0.03656
+	asset 7 = 0.01506
+	asset 8 = 0.10915
+	asset 9 = -0.00275
+	mean correlation = 0.03460
+Overall correlation: 0.02187
+===============================
+Performance beats Ziwei's dummy method!
+===============================
+score= 0.021868645777991403
+num_features= [ 22  25  16  62  27  53  51  29  60 594]
+iteration number 27
+Total time used: 9.606s
+Pairwise correlation:
+	asset 0 = 0.01456
+	asset 1 = 0.02589
+	asset 2 = 0.03565
+	asset 3 = 0.02097
+	asset 4 = 0.05756
+	asset 5 = 0.00061
+	asset 6 = 0.07398
+	asset 7 = 0.02501
+	asset 8 = 0.09612
+	asset 9 = 0.03069
+	mean correlation = 0.03810
+Overall correlation: 0.02298
+===============================
+Performance beats Ziwei's dummy method!
+===============================
+score= 0.022984884631346725
+num_features= [ 24  60  46  48  71  60  16  53  29 125]
+iteration number 28
+Total time used: 9.459s
+Pairwise correlation:
+	asset 0 = 0.01902
+	asset 1 = 0.05715
+	asset 2 = 0.03950
+	asset 3 = 0.02019
+	asset 4 = 0.05808
+	asset 5 = -0.00185
+	asset 6 = 0.06735
+	asset 7 = 0.01604
+	asset 8 = 0.11377
+	asset 9 = 0.00417
+	mean correlation = 0.03934
+Overall correlation: 0.02409
+===============================
+Performance beats Ziwei's dummy method!
+===============================
+score= 0.024092715015569317
+num_features= [ 20  10  16  54  70  12  22  30  55 536]
+iteration number 29
+Total time used: 9.167s
+Pairwise correlation:
+	asset 0 = 0.00050
+	asset 1 = 0.02245
+	asset 2 = 0.04123
+	asset 3 = 0.01739
+	asset 4 = 0.05811
+	asset 5 = 0.00263
+	asset 6 = 0.03595
+	asset 7 = 0.01083
+	asset 8 = 0.11531
+	asset 9 = 0.04877
+	mean correlation = 0.03532
+Overall correlation: 0.02103
+===============================
+Performance beats Ziwei's dummy method!
+===============================
+score= 0.021028036546685017
+num_features= [13 39 18 28 68 46 46 10 45 29]
+iteration number 30
+Total time used: 9.501s
+Pairwise correlation:
+	asset 0 = 0.02312
+	asset 1 = 0.03977
+	asset 2 = 0.04270
+	asset 3 = 0.02082
+	asset 4 = 0.05424
+	asset 5 = 0.00252
+	asset 6 = 0.06812
+	asset 7 = 0.01726
+	asset 8 = 0.08955
+	asset 9 = 0.00808
+	mean correlation = 0.03662
+Overall correlation: 0.02260
+===============================
+Performance beats Ziwei's dummy method!
+===============================
+score= 0.02260463408930558
+num_features= [ 34  31  59  61  49  45  20  37  16 503]
+iteration number 31
+Total time used: 9.581s
+Pairwise correlation:
+	asset 0 = 0.02674
+	asset 1 = 0.03533
+	asset 2 = 0.04221
+	asset 3 = 0.02652
+	asset 4 = 0.07452
+	asset 5 = 0.00100
+	asset 6 = 0.05844
+	asset 7 = 0.02173
+	asset 8 = 0.10539
+	asset 9 = 0.00894
+	mean correlation = 0.04008
+Overall correlation: 0.02564
+===============================
+Performance beats Ziwei's dummy method!
+===============================
+score= 0.02563858537469882
+num_features= [ 54  25  19  18  28  61  13  47  22 477]
+iteration number 32
+Total time used: 9.404s
+Pairwise correlation:
+	asset 0 = 0.02283
+	asset 1 = 0.02439
+	asset 2 = 0.03719
+	asset 3 = 0.01353
+	asset 4 = 0.05999
+	asset 5 = -0.00077
+	asset 6 = 0.03596
+	asset 7 = 0.00955
+	asset 8 = 0.06808
+	asset 9 = 0.00904
+	mean correlation = 0.02798
+Overall correlation: 0.01790
+===============================
+Fail to outperform Ziwei's method, whose pairwise average
+and overall correlations are (0.02840, 0.01536)
+===============================
+score= 0.01790047733868857
+num_features= [ 48  48  23  37  47  58  49  12  17 452]
+iteration number 33
+Total time used: 9.391s
+Pairwise correlation:
+	asset 0 = 0.02033
+	asset 1 = 0.03962
+	asset 2 = 0.03576
+	asset 3 = 0.01836
+	asset 4 = 0.05366
+	asset 5 = -0.00062
+	asset 6 = 0.04179
+	asset 7 = 0.01729
+	asset 8 = 0.09666
+	asset 9 = 0.00947
+	mean correlation = 0.03323
+Overall correlation: 0.01880
+===============================
+Performance beats Ziwei's dummy method!
+===============================
+score= 0.01880143034584424
+num_features= [ 17  32  14  25  53  63  29  18  27 271]
+iteration number 34
+Total time used: 9.543s
+Pairwise correlation:
+	asset 0 = 0.02614
+	asset 1 = 0.04119
+	asset 2 = 0.03950
+	asset 3 = 0.02113
+	asset 4 = 0.05798
+	asset 5 = -0.00072
+	asset 6 = 0.04613
+	asset 7 = 0.02253
+	asset 8 = 0.06808
+	asset 9 = 0.01233
+	mean correlation = 0.03343
+Overall correlation: 0.02255
+===============================
+Performance beats Ziwei's dummy method!
+===============================
+score= 0.02254818313813569
+num_features= [60 19 16 53 86 14 31 50 17 36]
+iteration number 35
+Total time used: 9.704s
+Pairwise correlation:
+	asset 0 = 0.01902
+	asset 1 = 0.03823
+	asset 2 = 0.03576
+	asset 3 = 0.01386
+	asset 4 = 0.05772
+	asset 5 = -0.00062
+	asset 6 = 0.03650
+	asset 7 = 0.01752
+	asset 8 = 0.10639
+	asset 9 = -0.01068
+	mean correlation = 0.03137
+Overall correlation: 0.01842
+===============================
+Performance beats Ziwei's dummy method!
+===============================
+score= 0.018417937343402496
+num_features= [ 20  14  14  40  65  63  58  32  37 339]
+iteration number 36
+Total time used: 9.615s
+Pairwise correlation:
+	asset 0 = 0.02419
+	asset 1 = 0.02589
+	asset 2 = 0.04181
+	asset 3 = 0.01720
+	asset 4 = 0.07452
+	asset 5 = 0.00318
+	asset 6 = 0.05003
+	asset 7 = 0.02128
+	asset 8 = 0.11006
+	asset 9 = 0.00422
+	mean correlation = 0.03724
+Overall correlation: 0.02405
+===============================
+Performance beats Ziwei's dummy method!
+===============================
+score= 0.02404539815106827
+num_features= [ 49  60  51  36  28  17  33  46  31 632]
+iteration number 37
+Total time used: 9.404s
+Pairwise correlation:
+	asset 0 = 0.01560
+	asset 1 = 0.03594
+	asset 2 = 0.03542
+	asset 3 = 0.01386
+	asset 4 = 0.05585
+	asset 5 = -0.00077
+	asset 6 = 0.04648
+	asset 7 = 0.01047
+	asset 8 = 0.09612
+	asset 9 = -0.00538
+	mean correlation = 0.03036
+Overall correlation: 0.01760
+===============================
+Performance beats Ziwei's dummy method!
+===============================
+score= 0.0175997766436803
+num_features= [ 28  28  15  40  60  58  44  11  29 562]
+iteration number 38
+Total time used: 9.253s
+Pairwise correlation:
+	asset 0 = 0.01487
+	asset 1 = 0.04119
+	asset 2 = 0.04204
+	asset 3 = 0.01836
+	asset 4 = 0.07448
+	asset 5 = -0.00249
+	asset 6 = 0.04555
+	asset 7 = 0.02026
+	asset 8 = 0.09387
+	asset 9 = 0.00880
+	mean correlation = 0.03569
+Overall correlation: 0.02268
+===============================
+Performance beats Ziwei's dummy method!
+===============================
+score= 0.022682973213594092
+num_features= [ 25  19  50  25  29  33  25  33  19 484]
+iteration number 39
+Total time used: 9.351s
+Pairwise correlation:
+	asset 0 = 0.02283
+	asset 1 = 0.03533
+	asset 2 = 0.03716
+	asset 3 = 0.01364
+	asset 4 = 0.05725
+	asset 5 = 0.00100
+	asset 6 = 0.04555
+	asset 7 = 0.01604
+	asset 8 = 0.09687
+	asset 9 = -0.00226
+	mean correlation = 0.03234
+Overall correlation: 0.02016
+===============================
+Performance beats Ziwei's dummy method!
+===============================
+score= 0.02015609973091633
+num_features= [48 25 24 38 63 61 25 30 14 46]
+iteration number 40
+Total time used: 9.188s
+Pairwise correlation:
+	asset 0 = 0.02647
+	asset 1 = 0.02235
+	asset 2 = 0.03542
+	asset 3 = 0.01386
+	asset 4 = 0.05645
+	asset 5 = 0.00231
+	asset 6 = 0.03652
+	asset 7 = 0.01794
+	asset 8 = 0.10486
+	asset 9 = -0.00284
+	mean correlation = 0.03133
+Overall correlation: 0.01886
+===============================
+Performance beats Ziwei's dummy method!
+===============================
+score= 0.01886161313308079
+num_features= [ 53  51  15  40  73  41  56  44  40 546]
+iteration number 41
+Total time used: 9.188s
+Pairwise correlation:
+	asset 0 = 0.02540
+	asset 1 = 0.02235
+	asset 2 = 0.04221
+	asset 3 = 0.02102
+	asset 4 = 0.05237
+	asset 5 = 0.00261
+	asset 6 = 0.06812
+	asset 7 = 0.01506
+	asset 8 = 0.10416
+	asset 9 = 0.04519
+	mean correlation = 0.03985
+Overall correlation: 0.02411
+===============================
+Performance beats Ziwei's dummy method!
+===============================
+score= 0.02410600553799622
+num_features= [ 58  51  19  63  57  42  20  29  23 156]
+iteration number 42
+Total time used: 9.314s
+Pairwise correlation:
+	asset 0 = 0.02463
+	asset 1 = 0.02602
+	asset 2 = 0.04128
+	asset 3 = 0.02102
+	asset 4 = 0.05756
+	asset 5 = 0.00184
+	asset 6 = 0.05844
+	asset 7 = 0.02297
+	asset 8 = 0.11534
+	asset 9 = 0.00470
+	mean correlation = 0.03738
+Overall correlation: 0.02328
+===============================
+Performance beats Ziwei's dummy method!
+===============================
+score= 0.02327727980331839
+num_features= [ 37  61  55  63  71  48  13  58  44 238]
+iteration number 43
+Total time used: 9.236s
+Pairwise correlation:
+	asset 0 = 0.02463
+	asset 1 = 0.04334
+	asset 2 = 0.03719
+	asset 3 = 0.01720
+	asset 4 = 0.05424
+	asset 5 = 0.00808
+	asset 6 = 0.03647
+	asset 7 = 0.01020
+	asset 8 = 0.10953
+	asset 9 = 0.05093
+	mean correlation = 0.03918
+Overall correlation: 0.02544
+===============================
+Performance beats Ziwei's dummy method!
+===============================
+score= 0.025442468333802502
+num_features= [37 17 23 36 49 26 57 13 33 24]
+iteration number 44
+Total time used: 9.580s
+Pairwise correlation:
+	asset 0 = 0.02033
+	asset 1 = 0.04130
+	asset 2 = 0.04215
+	asset 3 = 0.01446
+	asset 4 = 0.05811
+	asset 5 = -0.00249
+	asset 6 = 0.04613
+	asset 7 = 0.02128
+	asset 8 = 0.10953
+	asset 9 = 0.00900
+	mean correlation = 0.03598
+Overall correlation: 0.02324
+===============================
+Performance beats Ziwei's dummy method!
+===============================
+score= 0.023236652796814097
+num_features= [ 17  16  49  44  68  33  31  46  33 432]
+iteration number 45
+Total time used: 9.337s
+Pairwise correlation:
+	asset 0 = 0.01441
+	asset 1 = 0.02620
+	asset 2 = 0.03443
+	asset 3 = 0.02685
+	asset 4 = 0.05619
+	asset 5 = 0.01430
+	asset 6 = 0.06178
+	asset 7 = 0.01047
+	asset 8 = 0.10953
+	asset 9 = 0.00040
+	mean correlation = 0.03545
+Overall correlation: 0.02099
+===============================
+Performance beats Ziwei's dummy method!
+===============================
+score= 0.02099277114426386
+num_features= [ 23  62  34  12  78  20  23  11  33 302]
+iteration number 46
+Total time used: 8.890s
+Pairwise correlation:
+	asset 0 = 0.02316
+	asset 1 = 0.02589
+	asset 2 = 0.04185
+	asset 3 = 0.01719
+	asset 4 = 0.06811
+	asset 5 = -0.00169
+	asset 6 = 0.05153
+	asset 7 = 0.02253
+	asset 8 = 0.11455
+	asset 9 = 0.03863
+	mean correlation = 0.04018
+Overall correlation: 0.02555
+===============================
+Performance beats Ziwei's dummy method!
+===============================
+score= 0.025548654537607865
+num_features= [ 30  60  53  35  22  57  39  50  46 145]
+iteration number 47
+Total time used: 8.913s
+Pairwise correlation:
+	asset 0 = 0.02033
+	asset 1 = 0.02438
+	asset 2 = 0.03505
+	asset 3 = 0.01927
+	asset 4 = 0.05580
+	asset 5 = 0.01390
+	asset 6 = 0.05153
+	asset 7 = 0.01400
+	asset 8 = 0.11417
+	asset 9 = 0.00858
+	mean correlation = 0.03570
+Overall correlation: 0.02152
+===============================
+Performance beats Ziwei's dummy method!
+===============================
+score= 0.021522992982718717
+num_features= [ 17  56  39  31  82  23  39  24  57 266]
+iteration number 48
+Total time used: 9.063s
+Pairwise correlation:
+	asset 0 = 0.00050
+	asset 1 = 0.05715
+	asset 2 = 0.04158
+	asset 3 = 0.01836
+	asset 4 = 0.05999
+	asset 5 = -0.00115
+	asset 6 = 0.03595
+	asset 7 = 0.01047
+	asset 8 = 0.11415
+	asset 9 = 0.00591
+	mean correlation = 0.03429
+Overall correlation: 0.02091
+===============================
+Performance beats Ziwei's dummy method!
+===============================
+score= 0.020913548782165364
+num_features= [ 13  10  56  25  47  34  46  11  56 397]
+iteration number 49
+Total time used: 9.341s
+Pairwise correlation:
+	asset 0 = 0.02308
+	asset 1 = 0.04119
+	asset 2 = 0.04158
+	asset 3 = 0.02011
+	asset 4 = 0.05337
+	asset 5 = 0.00224
+	asset 6 = 0.04648
+	asset 7 = 0.02283
+	asset 8 = 0.10634
+	asset 9 = -0.00111
+	mean correlation = 0.03561
+Overall correlation: 0.02308
+===============================
+Performance beats Ziwei's dummy method!
+===============================
+score= 0.023079009659781064
+num_features= [ 44  19  56  60  54  50  44  49  35 299]
+iteration number 50
+Total time used: 9.243s
+Pairwise correlation:
+	asset 0 = 0.01902
+	asset 1 = 0.04334
+	asset 2 = 0.03483
+	asset 3 = 0.02718
+	asset 4 = 0.05591
+	asset 5 = -0.00249
+	asset 6 = 0.03670
+	asset 7 = 0.02026
+	asset 8 = 0.10625
+	asset 9 = -0.00529
+	mean correlation = 0.03357
+Overall correlation: 0.02151
+===============================
+Performance beats Ziwei's dummy method!
+===============================
+score= 0.021510210712303992
+num_features= [ 20  17  45  17  58  33  54  33  38 567]
+iteration number 51
+Total time used: 9.268s
+Pairwise correlation:
+	asset 0 = 0.01861
+	asset 1 = 0.02499
+	asset 2 = 0.03716
+	asset 3 = 0.02718
+	asset 4 = 0.06988
+	asset 5 = 0.00118
+	asset 6 = 0.06162
+	asset 7 = 0.01047
+	asset 8 = 0.09649
+	asset 9 = 0.00302
+	mean correlation = 0.03506
+Overall correlation: 0.02067
+===============================
+Performance beats Ziwei's dummy method!
+===============================
+score= 0.02066860025748624
+num_features= [ 18  58  24  17  34  27  37  11  26 276]
+iteration number 52
+Total time used: 9.448s
+Pairwise correlation:
+	asset 0 = 0.02319
+	asset 1 = 0.02640
+	asset 2 = 0.03877
+	asset 3 = 0.01788
+	asset 4 = 0.07773
+	asset 5 = 0.00252
+	asset 6 = 0.04648
+	asset 7 = 0.01682
+	asset 8 = 0.09313
+	asset 9 = 0.01957
+	mean correlation = 0.03625
+Overall correlation: 0.02212
+===============================
+Performance beats Ziwei's dummy method!
+===============================
+score= 0.022119359556158884
+num_features= [42 24 12 26 19 45 44 19 21 60]
+iteration number 53
+Total time used: 9.710s
+Pairwise correlation:
+	asset 0 = 0.02319
+	asset 1 = 0.04168
+	asset 2 = 0.03576
+	asset 3 = 0.02102
+	asset 4 = 0.08339
+	asset 5 = 0.00261
+	asset 6 = 0.03628
+	asset 7 = 0.01083
+	asset 8 = 0.11006
+	asset 9 = 0.00778
+	mean correlation = 0.03726
+Overall correlation: 0.02395
+===============================
+Performance beats Ziwei's dummy method!
+===============================
+score= 0.0239466118949189
+num_features= [ 42  20  14  63  15  42  60  10  31 511]
+iteration number 54
+Total time used: 9.187s
+Pairwise correlation:
+	asset 0 = 0.02033
+	asset 1 = 0.02620
+	asset 2 = 0.03359
+	asset 3 = 0.01460
+	asset 4 = 0.06663
+	asset 5 = 0.01401
+	asset 6 = 0.07398
+	asset 7 = 0.01273
+	asset 8 = 0.09612
+	asset 9 = 0.03012
+	mean correlation = 0.03883
+Overall correlation: 0.02366
+===============================
+Performance beats Ziwei's dummy method!
+===============================
+score= 0.02365678917171462
+num_features= [ 17  62  28  42  39  22  16  28  29 103]
+iteration number 55
+Total time used: 9.615s
+Pairwise correlation:
+	asset 0 = 0.02283
+	asset 1 = 0.03594
+	asset 2 = 0.03390
+	asset 3 = 0.01736
+	asset 4 = 0.08172
+	asset 5 = 0.00247
+	asset 6 = 0.06023
+	asset 7 = 0.00955
+	asset 8 = 0.11433
+	asset 9 = 0.01021
+	mean correlation = 0.03885
+Overall correlation: 0.02553
+===============================
+Performance beats Ziwei's dummy method!
+===============================
+score= 0.025534001840760247
+num_features= [ 48  28  42  33  18  40  10  12  54 422]
+iteration number 56
+Total time used: 10.445s
+Pairwise correlation:
+	asset 0 = 0.02463
+	asset 1 = 0.02235
+	asset 2 = 0.03565
+	asset 3 = 0.01736
+	asset 4 = 0.06447
+	asset 5 = 0.00197
+	asset 6 = 0.03628
+	asset 7 = 0.02325
+	asset 8 = 0.10855
+	asset 9 = -0.00240
+	mean correlation = 0.03321
+Overall correlation: 0.02087
+===============================
+Performance beats Ziwei's dummy method!
+===============================
+score= 0.020871251106979023
+num_features= [ 37  51  46  33  42  28  60  52  32 560]
+iteration number 57
+Total time used: 9.732s
+Pairwise correlation:
+	asset 0 = 0.02563
+	asset 1 = 0.02517
+	asset 2 = 0.04218
+	asset 3 = 0.02076
+	asset 4 = 0.06337
+	asset 5 = 0.00091
+	asset 6 = 0.06162
+	asset 7 = 0.02173
+	asset 8 = 0.11517
+	asset 9 = -0.00065
+	mean correlation = 0.03759
+Overall correlation: 0.02458
+===============================
+Performance beats Ziwei's dummy method!
+===============================
+score= 0.024577669745320482
+num_features= [57 53 20 49 45 29 37 47 43 44]
+iteration number 58
+Total time used: 9.507s
+Pairwise correlation:
+	asset 0 = 0.02622
+	asset 1 = 0.02517
+	asset 2 = 0.03359
+	asset 3 = 0.02061
+	asset 4 = 0.06604
+	asset 5 = -0.00077
+	asset 6 = 0.03656
+	asset 7 = 0.01814
+	asset 8 = 0.11458
+	asset 9 = 0.02744
+	mean correlation = 0.03676
+Overall correlation: 0.02414
+===============================
+Performance beats Ziwei's dummy method!
+===============================
+score= 0.024139176475294843
+num_features= [55 53 28 52 41 58 51 43 52 99]
+iteration number 59
+Total time used: 9.372s
+Pairwise correlation:
+	asset 0 = 0.02319
+	asset 1 = 0.02423
+	asset 2 = 0.03085
+	asset 3 = 0.02796
+	asset 4 = 0.05580
+	asset 5 = 0.00252
+	asset 6 = 0.06735
+	asset 7 = 0.01814
+	asset 8 = 0.11286
+	asset 9 = 0.03649
+	mean correlation = 0.03994
+Overall correlation: 0.02375
+===============================
+Performance beats Ziwei's dummy method!
+===============================
+score= 0.02375487667505665
+num_features= [ 41  55  25  14  82  45  22  43  50 178]
+iteration number 60
+Total time used: 9.497s
+Pairwise correlation:
+	asset 0 = 0.02339
+	asset 1 = 0.02517
+	asset 2 = 0.03716
+	asset 3 = 0.01446
+	asset 4 = 0.05619
+	asset 5 = 0.00710
+	asset 6 = 0.03603
+	asset 7 = 0.01771
+	asset 8 = 0.10539
+	asset 9 = 0.05026
+	mean correlation = 0.03728
+Overall correlation: 0.02249
+===============================
+Performance beats Ziwei's dummy method!
+===============================
+score= 0.022491945711625216
+num_features= [47 53 24 44 78 24 62 42 22 27]
+iteration number 61
+Total time used: 9.309s
+Pairwise correlation:
+	asset 0 = 0.02312
+	asset 1 = 0.04742
+	asset 2 = 0.04221
+	asset 3 = 0.01509
+	asset 4 = 0.06919
+	asset 5 = 0.00527
+	asset 6 = 0.04623
+	asset 7 = 0.02501
+	asset 8 = 0.11011
+	asset 9 = 0.00841
+	mean correlation = 0.03921
+Overall correlation: 0.02617
+===============================
+Performance beats Ziwei's dummy method!
+===============================
+score= 0.02617415215526055
+num_features= [ 34  33  19  43  36  37  32  53  30 494]
+iteration number 62
+Total time used: 9.280s
+Pairwise correlation:
+	asset 0 = 0.02263
+	asset 1 = 0.04334
+	asset 2 = 0.04204
+	asset 3 = 0.01541
+	asset 4 = 0.07420
+	asset 5 = 0.00252
+	asset 6 = 0.05947
+	asset 7 = 0.01083
+	asset 8 = 0.11534
+	asset 9 = 0.00800
+	mean correlation = 0.03938
+Overall correlation: 0.02582
+===============================
+Performance beats Ziwei's dummy method!
+===============================
+score= 0.02581570522502987
+num_features= [ 19  17  50  45  33  45  14  10  44 392]
+iteration number 63
+Total time used: 9.401s
+Pairwise correlation:
+	asset 0 = 0.01868
+	asset 1 = 0.04829
+	asset 2 = 0.04285
+	asset 3 = 0.02685
+	asset 4 = 0.05619
+	asset 5 = 0.00231
+	asset 6 = 0.04163
+	asset 7 = 0.01729
+	asset 8 = 0.09617
+	asset 9 = 0.00969
+	mean correlation = 0.03599
+Overall correlation: 0.02267
+===============================
+Performance beats Ziwei's dummy method!
+===============================
+score= 0.022671964691448315
+num_features= [ 15  18  62  12  78  41  28  18  28 442]
+iteration number 64
+Total time used: 9.166s
+Pairwise correlation:
+	asset 0 = 0.02613
+	asset 1 = 0.04130
+	asset 2 = 0.04218
+	asset 3 = 0.02767
+	asset 4 = 0.07976
+	asset 5 = 0.00231
+	asset 6 = 0.06026
+	asset 7 = 0.02537
+	asset 8 = 0.10539
+	asset 9 = 0.02757
+	mean correlation = 0.04380
+Overall correlation: 0.02832
+===============================
+Performance beats Ziwei's dummy method!
+===============================
+score= 0.028322750402496093
+num_features= [59 16 20 16 10 41 36 54 22 83]
+best score ever!
+features [59 16 20 16 10 41 36 54 22 83]
+iteration number 65
+Total time used: 11.624s
+Pairwise correlation:
+	asset 0 = 0.02080
+	asset 1 = 0.03731
+	asset 2 = 0.03359
+	asset 3 = 0.01509
+	asset 4 = 0.08339
+	asset 5 = 0.00207
+	asset 6 = 0.06026
+	asset 7 = 0.01752
+	asset 8 = 0.10630
+	asset 9 = 0.04050
+	mean correlation = 0.04168
+Overall correlation: 0.02725
+===============================
+Performance beats Ziwei's dummy method!
+===============================
+score= 0.027250747379358706
+num_features= [ 16  15  28  43  15  52  36  32  39 159]
+iteration number 66
+Total time used: 9.554s
+Pairwise correlation:
+	asset 0 = 0.02359
+	asset 1 = 0.02499
+	asset 2 = 0.03696
+	asset 3 = 0.01386
+	asset 4 = 0.05366
+	asset 5 = -0.00109
+	asset 6 = 0.06178
+	asset 7 = 0.02270
+	asset 8 = 0.10612
+	asset 9 = 0.02203
+	mean correlation = 0.03646
+Overall correlation: 0.02184
+===============================
+Performance beats Ziwei's dummy method!
+===============================
+score= 0.021836084788231284
+num_features= [ 32  58  22  40  53  56  23  63  34 214]
+iteration number 67
+Total time used: 9.773s
+Pairwise correlation:
+	asset 0 = 0.02607
+	asset 1 = 0.04168
+	asset 2 = 0.03422
+	asset 3 = 0.02762
+	asset 4 = 0.05756
+	asset 5 = -0.00259
+	asset 6 = 0.03728
+	asset 7 = 0.02500
+	asset 8 = 0.09687
+	asset 9 = 0.01044
+	mean correlation = 0.03542
+Overall correlation: 0.02271
+===============================
+Performance beats Ziwei's dummy method!
+===============================
+score= 0.022712723547481155
+num_features= [ 61  20  33  13  71  13  63  61  14 258]
+iteration number 68
+Total time used: 9.349s
+Pairwise correlation:
+	asset 0 = 0.01914
+	asset 1 = 0.02620
+	asset 2 = 0.04221
+	asset 3 = 0.01539
+	asset 4 = 0.05940
+	asset 5 = 0.00445
+	asset 6 = 0.05153
+	asset 7 = 0.01794
+	asset 8 = 0.11286
+	asset 9 = 0.03767
+	mean correlation = 0.03868
+Overall correlation: 0.02428
+===============================
+Performance beats Ziwei's dummy method!
+===============================
+score= 0.02428436020957346
+num_features= [21 62 19 46 46 16 39 44 50 33]
+iteration number 69
+Total time used: 9.672s
+Pairwise correlation:
+	asset 0 = 0.02563
+	asset 1 = 0.03599
+	asset 2 = 0.03505
+	asset 3 = 0.01972
+	asset 4 = 0.08018
+	asset 5 = 0.00959
+	asset 6 = 0.03553
+	asset 7 = 0.02253
+	asset 8 = 0.09820
+	asset 9 = -0.00546
+	mean correlation = 0.03570
+Overall correlation: 0.02236
+===============================
+Performance beats Ziwei's dummy method!
+===============================
+score= 0.0223569193896936
+num_features= [ 57  27  39  58  11  18  47  50  25 570]
+iteration number 70
+Total time used: 10.469s
+Pairwise correlation:
+	asset 0 = 0.00346
+	asset 1 = 0.02602
+	asset 2 = 0.04204
+	asset 3 = 0.02754
+	asset 4 = 0.05591
+	asset 5 = 0.00197
+	asset 6 = 0.06835
+	asset 7 = 0.02026
+	asset 8 = 0.10759
+	asset 9 = 0.00166
+	mean correlation = 0.03548
+Overall correlation: 0.02096
+===============================
+Performance beats Ziwei's dummy method!
+===============================
+score= 0.020963653238713093
+num_features= [ 12  61  50  15  58  55  19  33  59 620]
+iteration number 71
+
+,,0.04431, 0.02212, 0.08172, 0.02937, 0.07780, 0.02537, 
+61, 10, 61, 20, 18, 10, 17, 54, 48, 24

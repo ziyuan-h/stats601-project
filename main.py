@@ -2,7 +2,7 @@ import numpy as np
 import pandas as pd
 import pickle
 
-with open('./splilt_linreg.pkl', 'rb') as f:
+with open('./splilt_kernel_5.pkl', 'rb') as f:
     file_split_model_lsit = pickle.load(f)
     
 def transform_split(X):
@@ -30,4 +30,5 @@ def get_r_hat(A, B):
     X = np.stack([A.values, B.values], axis=0)
     X_test = transform_split(X[np.newaxis,:])
     pred = [file_split_model_lsit[i].predict(X_test[i]) for i in range(10)]
+#     pred = np.array(pred, dtype=float).squeeze()
     return pred
