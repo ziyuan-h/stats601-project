@@ -80,7 +80,9 @@ class DataSet:
     
     @property
     def submit_train(self):
-        self.total = self._formulize_helper(self.log_pr.values[self.test_size:], self.volu.values[self.test_size:], 1440, 10)
+        self.total = self._formulize_helper(self.log_pr.values,
+                                            self.volu.values, 
+                                            1440, 10)
         return self.total
 
 
