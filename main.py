@@ -4,6 +4,7 @@ import numpy as np
 import pandas as pd
 import pickle
 
+<<<<<<< Updated upstream
 with open('./kreg.pkl', 'rb') as f:
     model = pickle.load(f)
 
@@ -18,3 +19,6 @@ def get_r_hat(A, B):
     pred = model.predict(X.reshape(1, -1))
     return pred # Use the negative 30-minutes backward log-returns to predict the 30-minutes forward log-returns
     
+=======
+     return np.array([m.predict(input)[0] for m in model]) - A[:,-1]
+>>>>>>> Stashed changes
