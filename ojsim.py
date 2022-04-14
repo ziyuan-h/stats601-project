@@ -1,5 +1,5 @@
-from dataset import DataSet
 from critic import Critic
+from dataset import DataSet
 
 class OJSimulator:
     def __init__(self, log_price_file = "./log_price.df", 
@@ -8,7 +8,6 @@ class OJSimulator:
                         step_size=10):
         self.dataset_ = DataSet(log_price_file, volume_file, test_size, step_size=step_size)
         self.critic_ = Critic()
-
 
     def submit(self, get_r_hat):
         log_pr, volu = self.dataset_.test_set
