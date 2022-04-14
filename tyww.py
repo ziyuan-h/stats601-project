@@ -1,11 +1,15 @@
-import numpy as np
-from joblib import load
-import pandas as pd
-from sklearn.preprocessing import normalize
-import pickle
 import os
-import random
-import pickle
+import datetime
+import time
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+from sklearn.ensemble import RandomForestRegressor
+from sklearn.model_selection import ShuffleSplit
+
+# !pip3 install bayesian-optimization
+# import hyperparam
+import critic
 
 def FastAllFeatureExtract(A):
     A0_pr = A[:, :1440]
@@ -44,18 +48,3 @@ def FastAllFeatureExtract(A):
     feature = np.append(feature, binning.to_numpy(), axis=1)
 
     return feature
-
-
-model = []
-for i in range(10):
-    a = pickle.load(open(f'GB{i}.GB', 'rb'))
-    model.append(a)
-
-def get_r_hat(A,B):
-     A = A.values.T
-     B = B.values.T
-     iin =np.concatenate((A,B), axis=1)
-     mid = FastAllFeatureExtract(iin)
-     input = mid.reshape(-1)[None,:]
-
-     return np.array([m.predict(input)[0] for m in model])
