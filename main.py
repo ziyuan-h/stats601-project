@@ -2,8 +2,11 @@ import numpy as np
 import pandas as pd
 import pickle
 
-with open('./splilt_kernel_5.pkl', 'rb') as f:
-    file_split_model_lsit = pickle.load(f)
+with open('./linreg_fs_mi.pkl', 'rb') as f:
+    file_linreg_fs_mi = pickle.load(f)
+
+with open('./support_fs_mi.pkl', 'rb') as f:
+    support_fs_mi = pickle.load(f)
     
 def transform_split(X):
     prices = X[:,0,[-30,-1],:]
@@ -29,6 +32,8 @@ def transform_split(X):
 def get_r_hat(A, B):
     X = np.stack([A.values, B.values], axis=0)
     X_test = transform_split(X[np.newaxis,:])
-    pred = [file_split_model_lsit[i].predict(X_test[i]) for i in range(10)]
-#     pred = np.array(pred, dtype=float).squeeze()
+    pred = []
+    for i in range(10):
+        pred.append(file_linreg_fs_mi[i].predict(X_test[i][:,support_fs_mi[i]]))
+
     return pred
