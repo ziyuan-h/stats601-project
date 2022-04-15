@@ -3,6 +3,7 @@ import pandas as pd
 import numpy as np
 import datetime
 import time
+from tqdm import tqdm
 
 class Critic:
     def __init__(self):
@@ -46,7 +47,7 @@ class Critic:
         r_hat = pd.DataFrame(index=log_pr.index[1440::10], 
                             columns=np.arange(10), 
                             dtype=np.float64)
-        for t in log_pr.index[1440::10]: # compute the predictions every day
+        for t in tqdm(log_pr.index[1440::10]): # compute the predictions every day
             r_hat.loc[t, :] = get_r_hat(log_pr.loc[(t - dt):t], volu.loc[(t - dt):t])
 
         t_used = time.time() - t0
