@@ -6,3 +6,5 @@ model/*
 features.pkl
 *.npy
 *.pkl
+.venv/*
+stats601venv/*
