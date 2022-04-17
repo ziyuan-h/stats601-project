@@ -76,13 +76,13 @@ class Rescale(nn.Module):
 
 
 final_model = Rescale()
-final_model.load_state_dict(torch.load("final_scale.mdl"))
+final_model.load_state_dict(torch.load("final_scale01.mdl"))
 final_model.eval()
 
 from pickle import load
-linear_models = []
+new_linear_models = []
 for i in range(10):
-    linear_models.append(load(open(f'{i}.FFXGB','rb')))
+    new_linear_models.append(load(open(f'New_{i}.FFXGB','rb')))
 
 def get_r_hat(A,B):
     A = A.values.T
@@ -96,11 +96,11 @@ def get_r_hat(A,B):
         filtered[-window:] = raw_fft[-window:]
         hi = np.append(filtered.real,filtered.imag)[None,:]
         hi = np.concatenate((hi,features[[i],:]),axis = 1)
-        return linear_models[i].predict(hi)[0]- A[i,-1]
-    #before_scale =  torch.FloatTensor([getNpredict(i) for i in range(10)] - A[:,-1])
-    #after_scale =  final_model(before_scale[None,:])
-    return -np.array([getNpredict(i) for i in range(10)]) *  np.array([3,8,4,8,4,1,8,4,10,9])
-    #return after_scale.detach().numpy()
+        return new_linear_models[i].predict(hi)[0]
+    before_scale =  torch.FloatTensor([getNpredict(i) for i in range(10)])# - A[:,-1])
+    after_scale =  final_model(before_scale[None,:])
+    # return np.array([getNpredict(i) for i in range(10)])
+    return after_scale.detach().numpy()
 
 
     
