@@ -4,3 +4,4 @@ matplotlib
 ta
 scikit-learn
 torch
+lightgbm
